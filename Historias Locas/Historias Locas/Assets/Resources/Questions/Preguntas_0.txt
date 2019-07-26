@@ -1,0 +1,2 @@
+﻿Escribe un nombre de persona
+Escribe un objeto

@@ -1,0 +1,1 @@
+﻿El {0} caminaba por la calle cuando {1} cayó encima.
